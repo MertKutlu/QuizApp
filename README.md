@@ -4,7 +4,7 @@
 # Requirements
 • .NET 5 - .NET 6
 
-# How to use
+• How to use
 
 #Sign Up - Sign In Parts
 
