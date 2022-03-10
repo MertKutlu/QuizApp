@@ -3,9 +3,6 @@
 
 # Requirements
 • .NET 5 - .NET 6
-
-# How to use
-
 # Sign Up - Sign In Parts
 
 ![RegisterPart](https://user-images.githubusercontent.com/49922817/157744056-2f283448-b440-44cd-849f-944877719f9e.png)
