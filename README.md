@@ -1,5 +1,5 @@
 # QuizApp
-- In this application I created an example of login and exam with Identity still im working on this App
+- [ ] In this application I created an example of login and exam with Identity still im working on this App
 
 # Requirements
 - [ ] .NET Core 2.1
