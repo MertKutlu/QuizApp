@@ -2,7 +2,8 @@
 - In this application I created an example of login and exam with Identity still im working on this App
 
 # Requirements
-- .NET Core 2.1	
+- .NET Core 2.1
+-  SQL Server
 # Sign Up - Sign In Parts
 
 ![RegisterPart](https://user-images.githubusercontent.com/49922817/157744056-2f283448-b440-44cd-849f-944877719f9e.png)
