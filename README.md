@@ -18,3 +18,5 @@
 # Packages Used
 - EFCore
 - HtmlAgiltyPack
+- Bootstrap
+- Jquery
