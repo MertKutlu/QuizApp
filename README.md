@@ -10,7 +10,7 @@
 ![RegisterPart](https://user-images.githubusercontent.com/49922817/157744059-75233ea2-1649-44df-819d-daa3fea63ff6.png)
 
 # To create a Quiz
-- [ ] Need to create the correct answers and questions
+- [ ] Need toSelect and create the correct answers and questions
 
 ![TopicSelectPart](https://user-images.githubusercontent.com/49922817/157744264-dd25acad-17fc-40b1-8656-f402b7badebf.png)
 ![QuestionsPart](https://user-images.githubusercontent.com/49922817/157744277-7363f9dd-a6c4-4cbb-a227-31f0a4c9e3d4.png)
