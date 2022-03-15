@@ -2,7 +2,7 @@
 - [ ] In this application I created an example of login and exam with Identity still im working on this App
 
 # Requirements
-- [ ] .NET Core 2.1
+- [ ] .NET Core 2.2
 - [ ] SQL Server
 # Sign Up - Sign In Parts
 
